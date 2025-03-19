@@ -9,7 +9,7 @@ The Grocery Stock Management System is a software solution designed to streamlin
 ✔️ Sales and purchase record management
 ✔️ Generate reports for better decision-making
 
-🛠 __Technologies Used__
+🛠 *Technologies Used*
 Frontend: HTML, CSS, JavaScript (or any framework used)
 Database: MySQL, PostgreSQL, Firebase, etc.
 Tools: Git, VS Code, Postman
